@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AzureApp.Migrations
 {
     [DbContext(typeof(MusicDbContext))]
-    [Migration("20210916064941_intial")]
-    partial class intial
+    [Migration("20210916091932_music")]
+    partial class music
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

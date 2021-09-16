@@ -2,7 +2,7 @@
 
 namespace AzureApp.Migrations
 {
-    public partial class intial : Migration
+    public partial class music : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
